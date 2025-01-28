@@ -7,7 +7,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Sumit Dubey");
 MODULE_DESCRIPTION("A simple gpio driver for setting a LED and reading a button");
 
 /* Variables for device and device class */
